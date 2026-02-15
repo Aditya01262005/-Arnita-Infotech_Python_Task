@@ -1,6 +1,6 @@
 
 # 🛍️ Customer Segmentation using K-Means Clustering
-##"This project was completed as part of my training under @Arnita-Infotech".
+#"This project was completed as part of my training under @Arnita-Infotech".
  arnitainfotech@gmail.com
 
 ---
@@ -138,6 +138,7 @@ If you find this project useful, consider giving it a ⭐.
 
 "This project was completed as part of my training under @Arnita-Infotech".
  arnitainfotech@gmail.com
+
 
 
 
