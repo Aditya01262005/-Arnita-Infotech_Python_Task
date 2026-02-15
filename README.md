@@ -1,3 +1,4 @@
+
 # 🛍️ Customer Segmentation using K-Means Clustering
 
 ---
@@ -132,3 +133,7 @@ project/
 Contributions, issues, and feature requests are welcome.
 
 If you find this project useful, consider giving it a ⭐.
+
+"This project was completed as part of my training under @Arnita-Infotech".
+ arnitainfotech@gmail.com
+
